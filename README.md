@@ -1,2 +1,2 @@
 # IIP
- File - File Kuliah di Ilmu Informasi dan Perpustakaan
+Kumpulan File Pembelajaran di Ilmu Informasi dan Perpustakaan
